@@ -1,0 +1,12 @@
+F:\HGBCBlood\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+F:\HGBCBlood\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+F:\HGBCBlood\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.Form1.resources
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+F:\HGBCBlood\BloodBank\BloodBank\bin\Debug\XanderUI.dll
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.Dashboard.resources
+F:\HGBCBlood\BloodBank\BloodBank\obj\Debug\BloodBank.AddNewDonor.resources
